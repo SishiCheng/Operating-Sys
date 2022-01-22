@@ -1,0 +1,8 @@
+cmpsc473 100000
+is 100000
+operating 200000
+penn 100000
+pennstate 100000
+psu 100000
+system 200000
+this 100000
